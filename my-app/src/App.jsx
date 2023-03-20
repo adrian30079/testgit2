@@ -20,7 +20,7 @@ import VerticalTabs from '../src/Tabs';
 const Customtheme = createTheme({
   palette: {
     primary: {
-      main: '#0035F0', 
+      main: '#0035F0X', 
       light: '#5753FE',
       dark: '#0028DD',
       contrastText: '#fff',
